@@ -48,7 +48,7 @@
 
 ###
 
-<h2>Deployed URL :</h2>
+<h2>Deployed URL : https://pricecardinfo.netlify.app/</h2>
 
 ###
 
